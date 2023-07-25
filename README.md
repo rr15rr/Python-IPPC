@@ -3,3 +3,5 @@ This program is a tool that helps the user know the name of their system (PC) an
 It is programmed in Python and it uses the Module "Socket". 
 Thanks for visiting my profile. 
 If you need any changes, feel free to make them. 
+Creator: Rafael Rodriguez de san Miguel
+Contact: rafarsmb07@gmail.com
