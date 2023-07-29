@@ -1,4 +1,4 @@
-# PythonIPPC
+# Python-IPPC
 Python IPPC or Python IP and PC Program
 
 This program is a tool that helps the user know the name of their system (PC) and IP address.
